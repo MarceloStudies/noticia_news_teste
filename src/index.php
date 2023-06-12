@@ -1,4 +1,5 @@
 <?php
+ini_set('display_errors', 0);
 include_once __DIR__ . '/controller/config/connDB.php';
 include_once __DIR__ . '/controller/ConsumeNoticeController.php';
 // Recuperar os posts do banco de dados

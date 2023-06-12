@@ -1,3 +1,6 @@
+<?php
+ini_set('display_errors', 0);
+?>
 <nav class="fixed top-0 left-0 right-0 h-16 bg-gray-200 flex items-center justify-center">
   <div class="flex w-4/5 items-center justify-between">
     <a href="../index.php">
