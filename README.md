@@ -34,3 +34,8 @@ Melhorar a responsividade do site para diferentes dispositivos.
 Otimizar consultas ao banco de dados e implementar técnicas de armazenamento em cache.
 Sinta-se à vontade para explorar e expandir este projeto de acordo com suas habilidades e criatividade.
 
+
+#Altere as configurações do noticia_news_teste/src/controller/config
+/connDB.php
+
+
